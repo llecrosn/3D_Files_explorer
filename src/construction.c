@@ -1,6 +1,7 @@
 #include "construction.h"
 #include "raymath.h"
 #include "config.h"
+#include <string.h>
 #include <math.h>
 
 bool isBuildMode = false;
