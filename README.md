@@ -25,7 +25,7 @@ Ce projet a été conçu et testé pour les environnements **Linux** (notamment 
 ### Compilation
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/llecrosn/3D_Files_explorer.git](https://github.com/llecrosn/3D_Files_explorer.git)
+   git clone https://github.com/llecrosn/3D_Files_explorer.git
    cd 3D_Files_explorer
 
 ```
